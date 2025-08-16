@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Zaika Darbar
-Template URL: https://bootstrapmade.com/Zaika Darbar-free-restaurant-bootstrap-theme/
+Template Name: AANGAN DHABA
+Template URL: https://bootstrapmade.com/AANGAN DHABA-free-restaurant-bootstrap-theme/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
