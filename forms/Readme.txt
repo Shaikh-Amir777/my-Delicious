@@ -1,2 +1,2 @@
 Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/Zaika Darbar-free-restaurant-bootstrap-theme/
+You can buy it from: https://bootstrapmade.com/Mahfil Dhaba-free-restaurant-bootstrap-theme/

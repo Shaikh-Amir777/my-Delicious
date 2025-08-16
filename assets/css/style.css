@@ -1,6 +1,6 @@
 /**
-* Template Name: Zaika Darbar
-* Template URL: https://bootstrapmade.com/Zaika Darbar-free-restaurant-bootstrap-theme/
+* Template Name: Mahfil Dhaba
+* Template URL: https://bootstrapmade.com/Mahfil Dhaba-free-restaurant-bootstrap-theme/
 * Updated: Mar 17 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
