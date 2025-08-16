@@ -1,6 +1,6 @@
 /**
-* Template Name: AANGAN DHABA
-* Template URL: https://bootstrapmade.com/AANGAN DHABA-free-restaurant-bootstrap-theme/
+* Template Name: SHEESHA  DHABA
+* Template URL: https://bootstrapmade.com/SHEESHA  DHABA-free-restaurant-bootstrap-theme/
 * Updated: Mar 17 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
